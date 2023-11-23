@@ -1,5 +1,5 @@
 import pytest
-
+import allure
 from pages.textbox_page import TextBox
 import time
 
